@@ -1,4 +1,4 @@
-# Forked Application 
+# Forked Application with Timer
 
 https://todo-react-kappa-vert.vercel.app/
 
